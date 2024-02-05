@@ -77,4 +77,24 @@ https://www.salesforce.com/trailblazer/satishmurugan |
 
 ---------------------------------------------------------------------------
 
+| Networking Basics | Issued by Cisco | 
+https://www.credly.com/badges/5682bac2-f7d1-41e0-99e9-9df473d7469d |
+
+| Cybersecurity Essentials  | Issued by The Linux Foundation | 
+https://www.credly.com/badges/ee316dc3-800b-47dd-968d-88c67f7fe400 |
+
+---------------------------------------------------------------------------
+** Project Management and Service Management**
+
+| Project Management Essentials  | Issued by Management and Strategy Institute | 
+https://www.proprofs.com/quiz-school/user_certificate.php?id=330490438&qid=3593197 |
+
+| Lean Six Sigma White Belt Professional Certification | Issued by CertiProf | 
+https://www.credly.com/badges/f0761ddc-d292-432e-a9a7-867309889c7a |
+
+| ITIL 4 Fundamentals - ITSM  | Issued by Alison | 
+https://alison.com/certification/check/2y10YwPYq8On97QwjSKWLVmeO2dKg3p7CxJpjdg30psxFQPjGXxFca |
+
+| ITIL 4 Foundation | Issued by MindLuster | 
+https://www.mindluster.com/student/certificate/14826852343 |
 
