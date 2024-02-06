@@ -103,3 +103,8 @@ https://www.proprofs.com/quiz-school/user_certificate.php?id=330490438&qid=35931
 
 | Operation Management | Issued by Great Learning | 
 https://www.proprofs.com/quiz-school/user_certificate.php?id=330490438&qid=3593197 |
+
+| Master Course in Project Management 2.0 | Issued by Dr. Jose on Udemy | https://www.udemy.com/certificate/UC-722ce555-a955-40c3-bc3a-69bad29ffdb6/ |
+
+| Professional Diploma in Corporate Management | Issued by MTF Institute of Management, Technology and Finance on Udemy | https://www.udemy.com/certificate/UC-62177e79-ff6c-4541-867b-7bbf7e1e6cf8/ |  
+
