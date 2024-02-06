@@ -14,6 +14,9 @@ https://www.credly.com/badges/d1aa8cdc-8238-41b8-bad9-573bc2f1f28e |
 | R Essentials | Issued by IBM |
 https://www.credly.com/badges/d358782d-471a-4d68-8e55-9a0d5c8c939f |
 
+| Fundamental Course of Data Modeling (101 Level) | Issued by Udemy | 
+https://www.udemy.com/certificate/UC-bee443c3-bdbf-420d-9713-4b22bef0e2dc |
+
 | Microsoft Power BI | Issued by Infosys Spring board |
 ![image](https://github.com/satizjaey/Certifications-and-Badges/assets/156132395/82f60027-7a1e-47b6-bc33-fb9f0f589b78)
 
@@ -86,9 +89,6 @@ https://www.credly.com/badges/ee316dc3-800b-47dd-968d-88c67f7fe400 |
 ---------------------------------------------------------------------------
 ** Project Management and Service Management**
 
-| Project Management Essentials  | Issued by Management and Strategy Institute | 
-https://www.proprofs.com/quiz-school/user_certificate.php?id=330490438&qid=3593197 |
-
 | Lean Six Sigma White Belt Professional Certification | Issued by CertiProf | 
 https://www.credly.com/badges/f0761ddc-d292-432e-a9a7-867309889c7a |
 
@@ -98,3 +98,8 @@ https://alison.com/certification/check/2y10YwPYq8On97QwjSKWLVmeO2dKg3p7CxJpjdg30
 | ITIL 4 Foundation | Issued by MindLuster | 
 https://www.mindluster.com/student/certificate/14826852343 |
 
+| Project Management Essentials  | Issued by Management and Strategy Institute | 
+https://www.proprofs.com/quiz-school/user_certificate.php?id=330490438&qid=3593197 |
+
+| Operation Management | Issued by Great Learning | 
+https://www.proprofs.com/quiz-school/user_certificate.php?id=330490438&qid=3593197 |
