@@ -17,7 +17,7 @@ https://www.credly.com/badges/d358782d-471a-4d68-8e55-9a0d5c8c939f |
 | Fundamental Course of Data Modeling (101 Level) | Issued by Udemy | 
 https://www.udemy.com/certificate/UC-bee443c3-bdbf-420d-9713-4b22bef0e2dc |
 
-| Microsoft Power BI | Issued by Infosys Spring board |
+| Microsoft Power BI | Issued by Infosys Spring board | https://www.linkedin.com/in/satish-murugan/details/certifications/1704436214139/single-media-viewer/?profileId=ACoAACZs4ScB_crC3nhePE40F2nGh3uWGRJRr1k |
 
 ---------------------------------------------------------------------------
 
