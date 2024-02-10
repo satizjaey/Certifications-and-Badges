@@ -18,8 +18,6 @@ https://www.credly.com/badges/d358782d-471a-4d68-8e55-9a0d5c8c939f |
 https://www.udemy.com/certificate/UC-bee443c3-bdbf-420d-9713-4b22bef0e2dc |
 
 | Microsoft Power BI | Issued by Infosys Spring board |
-![image](https://github.com/satizjaey/Certifications-and-Badges/assets/156132395/82f60027-7a1e-47b6-bc33-fb9f0f589b78)
-
 
 ---------------------------------------------------------------------------
 
@@ -28,8 +26,13 @@ https://www.udemy.com/certificate/UC-bee443c3-bdbf-420d-9713-4b22bef0e2dc |
 | AWS Cloud Essentials | Issued by AWS |
 https://www.credly.com/badges/b766229f-f93c-4ef7-99a2-e345b6a73e24 |
 
+| Microsoft Azure Fundamentals | Issued by Microsoft |
+https://learn.microsoft.com/api/credentials/share/en-us/SatishMurugan-4515/ED9972B67A41F689?sharingId |
+
 | GCP Fundamentals | Issued by Google |
 https://www.cloudskillsboost.google/public_profiles/10ee0efc-8741-47dd-8d85-edcb9e95495b |
+
+
 
 ---------------------------------------------------------------------------
 
